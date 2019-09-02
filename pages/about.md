@@ -5,7 +5,7 @@ title: About
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet eleifend sagittis. Aliquam eu auctor diam. Sed eu magna ante. Fusce vitae justo at lectus rhoncus suscipit sit amet eget quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ornare pulvinar tellus sit amet ornare. Praesent ultricies ligula sed malesuada varius. Curabitur venenatis molestie egestas.
 
 
-![alt-text]("~/img/pie_fries-2.jpg")
+![alt-text]("https://ezekiel-h.github.io/pie_fries/assets/img/pie_fries-2.jpg")
 
 
 
